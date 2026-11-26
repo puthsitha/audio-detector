@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/charactercard.tsx","./src/components/dropzone.tsx","./src/components/processingpipeline.tsx","./src/components/summarybar.tsx","./src/components/waveformplayer.tsx"],"version":"5.9.3"}
